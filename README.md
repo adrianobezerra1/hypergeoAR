@@ -1,4 +1,5 @@
-![HypergeoAR](https://github.com/adrianobezerra1/hypergeoAR/assets/4467478/27f4293b-9349-4428-9ec3-c33987e52d30)
+
+![HypergeoAR](https://github.com/adrianobezerra1/hypergeoAR/assets/4467478/45bac74d-2f0f-4d18-bf87-843d3fe8bba1)
 
 # Índice 
 
