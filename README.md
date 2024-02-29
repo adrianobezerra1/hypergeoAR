@@ -10,7 +10,7 @@
 * [Licença](#licença)
 
 # Descrição do Projeto
-Aplicação desenvolvida no Programa de Pós graduação da FAAC - UNESP Bauru para apoiar a atividade de visualização de peças tridimensionais em disciplinas que envolvam geometria descritiva.
+Este projeto está sendo desenvolvido no Grupo de pesquisa Mídias Digitais, Interatividade, Games e Educação ligado ao Programa de Pós-Graduação em Mídia e Tecnologia (PPGMiT), da Faculdade de Arquitetura, Artes, Comunicação e Design (FAAC), do câmpus de Bauru em parceria com a FATEC de Lins. Neste projeto foi desenvolvido um aplicativo Android para ser utilizado na atividade de visualização de peças tridimensionais em disciplinas que envolvam geometria descritiva.
 
 # Status do Projeto
 Em desenvolvimento
