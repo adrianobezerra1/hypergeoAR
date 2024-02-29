@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/My Assets/Cenas/sceneRAandPinch01.unity
+    guid: 6d82e6775104a9643a6631a5b4ea9c5d
+  - enabled: 1
+    path: Assets/My Assets/Cenas/sceneRAandPinch02.unity
+    guid: 7fc573e0813bb954a8745de798278256
+  m_configObjects:
+    EasyAR.Settings: {fileID: 11400000, guid: cd4f31740b17e454a9235c2949fe6b2d, type: 2}
