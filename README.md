@@ -20,8 +20,10 @@ Documentação está na [Wiki](https://github.com/adrianobezerra1/hypergeoAR/wik
 # Código
 Esse projeto é de código aberto (open source), todo o código está disponível nesse repositório.
 # Download da última versão do Executável
-Versão sem controles virtuais: https://drive.google.com/file/d/1uvV8Snj-G8IFb8AkfaoGVN0LH47tanAH/view?usp=drive_link
-Versão com controles virtuais: https://drive.google.com/file/d/10TiX7GDyobksDf33tU-S0Rwu-6eWc7u_/view?usp=sharing
+Versão sem controles virtuais:
+* https://drive.google.com/file/d/1uvV8Snj-G8IFb8AkfaoGVN0LH47tanAH/view?usp=drive_link
+Versão com controles virtuais:
+*https://drive.google.com/file/d/10TiX7GDyobksDf33tU-S0Rwu-6eWc7u_/view?usp=sharing
 # Licença
 * Esse projeto é licenciado pela [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 * Restrição de comencialização de acordo com [UNITY SOFTWARE LICENSE AGREEMENT 4.X](https://unity.com/pt/legal/eula)
